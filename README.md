@@ -1,4 +1,4 @@
-# Semantic Kernel Bot in-a-box
+# Semantic Kernel Bot-in-a-box
 ![Banner](./readme_assets/banner.png)
 
 This project deploys an extensible Semantic Kernel bot template to Azure.
